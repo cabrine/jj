@@ -15,4 +15,5 @@ public class MainActivity extends AppCompatActivity {
         web=(WebView)findViewById(R.id.web);
         web.loadUrl("file:///android_asset/index.html");
     }
+
 }
